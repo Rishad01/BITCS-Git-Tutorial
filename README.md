@@ -26,3 +26,6 @@ git merge otherbranchname  :  merges the other branch into the current branch
 git checkout -b newBranch  : creates a new branch and switches to it  
 git push : pushes the commits in the local to remote repository  
 git pull : pulls the changes in the remote repository to local and merges them  
+git rebase  : moves the commits from one branch to another  
+git clean : removes untracked files from directory  
+git cherry-pick  :  moves specific commits from one branch to another  
